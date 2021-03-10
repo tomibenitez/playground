@@ -1,6 +1,6 @@
 module.exports = {
   purge: {
-    // enabled: true,
+    enabled: true,
     content: [
       './dist/index.html'
     ],
